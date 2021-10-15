@@ -18,7 +18,7 @@ cadence --domain samples-domain domain register
 ```
 
 ### 3. Running helloworld worker
-You will need to checkout [cadence-samples] and start helloword worker:
+You will need to checkout [cadence-samples](https://github.com/uber-common/cadence-samples) and start helloword worker:
 ```
 git clone git@github.com:uber-common/cadence-samples.git cadence-samples
 cd cadence-samples
